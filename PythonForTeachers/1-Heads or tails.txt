@@ -1,0 +1,51 @@
+Activity #1
+
+pseudocode (Version A)
+import random module (how to find Python info with Google - python 3 random choice)
+choose one of two answers (heads or tails)
+print result to screen
+
+in python shell
+	1. import random
+
+	2. result = random.choice(['heads','tails'])
+
+	3. print(result)
+
+To make another choice, we do not need to import again, unless shell has restarted.
+We would need to type in lines 2 and 3.
+
+So, we make a script (short bit of code that python can run through the interpreter) and we save to a file
+
+As a python file 
+
+	import random
+	result = random.choice(['heads','tails'])
+	print(result)
+
+Press f5, to save and run the module.
+
+Next, make sure we document the file
+At the very top, add file name, author, date, and what the code does after the hash tag.
+
+	# 1_HeadsOrTails.py
+	# by A.Colwell(July 2017)
+	# Professional Learning Session
+	# Prints results of random chosen heads or tails
+
+Lastly, we are going to make this code useful for the future.
+Results will be returned by a function, so that we can make it useful in other programs.
+Here is the complete code:
+	# 1_HeadsOrTails.py
+	# by A.Colwell(July 2017)
+	# Professional Learning Session
+	# Prints results of random chosen heads or tails
+
+	import random
+
+	def HorT():
+		result = random.choice(['heads','tails'])
+		return result
+
+	print(HorT())
+

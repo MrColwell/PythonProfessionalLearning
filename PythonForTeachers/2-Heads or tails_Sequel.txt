@@ -1,0 +1,86 @@
+We will use the final version of Activity 1 as the starting place for Activity 2
+
+The first introduction is to a small format change that is not necessary for stand alone code,
+but highly useful for using the script with other programs.
+
+General layout of code in Python:
+	import modules
+	
+	define functions
+	
+	define startup/global variables
+	
+	main loop of code
+
+Take Activity#1 file, Save as ...   2_HeadsOrTails_Sequel.py
+
+Using the sequel file: at the bottom of the file, just before the print line, add:
+	if __name__ == "__main__":
+		print(HorT())
+
+Then add a tab in front of the print statement.
+
+The line we added checks to see if the first code run was this file or another. If it was this file,
+it will run the indented code. If not, the indented code will not be executed.
+
+Click F5 to find out.
+
+Next, lets change the main loop. Delete the print line.
+
+This time we want to pseudo code for the following:
+* flip coin multiple times based on user input
+* display the results
+
+Pseudocode:
+define a single flip and return results
+
+ask user for number of flips
+start defined (by number of flips) loop
+  have we reached the number of flips?
+  get result of single flip
+  if heads, add 1 to heads count
+  if tails, add 1 to tails count
+  end loop
+print out number of heads and tails
+
+Here is my code:
+
+	# 2_HeadsOrTails_Sequel.py
+	# by A.Colwell(July 2017)
+	# Professional Learning Session
+	# Prints results of random chosen heads or tails
+
+	# Modules
+	import random
+
+	# Functions
+	def HorT():
+		result = random.choice(['heads','tails'])
+		return result
+
+	# Initial variables
+	headsCount = 0
+	tailsCount = 0
+
+	if __name__ == "__main__":
+		numOfFlips = input('Enter number of coin flips:')
+		intFlips = int(numOfFlips)
+		for flip in range(0,intFlips):
+			singleFlip = HorT()
+			if singleFlip == 'heads':
+				headsCount = headsCount + 1
+			else:
+				tailsCount = tailsCount + 1
+
+		print('Number of heads:',headsCount)
+		print('Number of tails:',tailsCount)
+
+The code now displays the results of the number of flips.
+
+However, the script could be useful in math class, but perhaps in a different way.
+So, lets convert our main loop to a function.
+Under the Functions section, we are going to add a new function.
+In this function, we are going to accept the number of flips (an argument) into a variable (parameter) in the function.
+
+
+

@@ -1,0 +1,340 @@
+School Name	School District
+A.-J.-Savoie	Francophone Nord-Ouest
+Abbey-Landry	Francophone Sud
+Acadieville	Francophone Sud
+Acadamie Notre-Dame	Francophone Nord-Ouest
+Albert Street Middle	Anglophone West
+Alexander Gibson Memorial	Anglophone West
+Amirault	Francophone Sud
+Andover Elementary	Anglophone West
+Anna-Malenfant	Francophone Sud
+Apollo-XI	Francophone Nord-Est
+Arc-en-Ciel	Francophone Sud
+Arnold H. McLeod	Anglophone East
+Aroostook Elementary	Anglophone West
+Arthur-Pinet	Francophone Nord-Est
+Assiniboine Avenue Elementary	Anglophone West
+Assomption	Francophone Nord-Est
+Aux quatre vents	Francophone Nord-Est
+Back Bay	Anglophone South
+Barkers Point Elementary	Anglophone West
+Barnhill Memorial	Anglophone South
+Bath Elementary	Anglophone West
+Bath Middle	Anglophone West
+Bathurst High	Anglophone North
+Bayside Middle	Anglophone South
+Bayview Elementary	Anglophone South
+Beaconsfield Middle	Anglophone South
+Beaverbrook	Anglophone East
+Belledune School	Anglophone North
+Belleisle Elementary	Anglophone South
+Belleisle Regional	Anglophone South
+Bernice MacNaughton	Anglophone East
+Bessborough	Anglophone East
+Birchmount	Anglophone East
+Blacks Harbour	Anglophone South
+Blackville School	Anglophone North
+Blanche-Bourgeois	Francophone Sud
+Bliss Carman Middle	Anglophone West
+Bonar Law Memorial	Anglophone North
+Bristol Elementary	Anglophone West
+Browns Flat	Anglophone South
+Burton Elementary	Anglophone West
+Caledonia Regional	Anglophone East
+Calixte-F.-Savoie	Francophone Sud
+Cambridge-Narrows Community	Anglophone West
+Camille-Vautour	Francophone Sud
+Campbellton Middle	Anglophone North
+Campobello Island Consolidated	Anglophone South
+Canterbury High	Anglophone West
+Carleton North High	Anglophone West
+Carrefour Beausoleil	Francophone Sud
+Carrefour de l'Acadie	Francophone Sud
+Carrefour de la Jeunesse	Francophone Nord-Ouest
+Carrefour-Étudiant	Francophone Nord-Est
+Centennial Elementary	Anglophone South
+Central Carleton Elementary	Anglophone West
+Central New Brunswick Academy	Anglophone West
+Centre de l'apprentissage du Haut-Madawaska	Francophone Nord-Ouest
+Centre La fontaine	Francophone Nord-Est
+Centreville Community	Anglophone West
+Champlain	Francophone Sud
+Champlain Heights	Anglophone South
+Chipman Elementary	Anglophone West
+Chipman Forest	Anglophone West
+Cite des Jeunes A.-M.-Sormany	Francophone Nord-Ouest
+Cite-de-l'Amitie	Francophone Nord-Est
+Claude D. Taylor	Anglophone East
+Clement-Cormier	Francophone Sud
+Coles Island	Anglophone West
+Connaught Street Elementary	Anglophone West
+Coronation Park Elementary	Anglophone North
+Croft Elementary	Anglophone North
+Dalhousie Middle	Anglophone North
+Dalhousie Regional	Anglophone North
+Debec Elementary	Anglophone West
+Deer Island Community	Anglophone South
+Des Bâtisseurs	Francophone Sud
+Devon Middle	Anglophone West
+Doaktown Consolidated	Anglophone West
+Doaktown Elementary	Anglophone West
+Donald Fraser	Anglophone West
+Donat-Robichaud	Francophone Sud
+Dorchester Consolidated	Anglophone East
+Douglas Elementary	Anglophone West
+Dr-Marguerit-Michaud	Francophone Sud
+Dr. A. T. Leatherbarrow	Anglophone South
+Dr. Christine Davies	Anglophone South
+Dr. Losier Middle	Anglophone North
+Echo Jeunesse	Francophone Nord-Ouest
+Edith Cavell	Anglophone East
+Eel Ground	Anglophone North
+Eleanor W. Graham	Anglophone North
+Elsipogtog	Anglophone North
+Ernest-Lang	Francophone Nord-Ouest
+Esgenoopetitj	Anglophone North
+Evergreen Park	Anglophone East
+Fairvale Elementary	Anglophone South
+Florenceville Elementary	Anglophone West
+Florenceville Middle	Anglophone West
+Forest Glen	Anglophone East
+Forest Hill Elementary	Anglophone West
+Forest Hills Elementary	Anglophone South
+Frank L. Bowser	Anglophone East
+Francois-Xavier-Daigle	Francophone Nord-Est
+Fredericton High	Anglophone West
+Fundy High	Anglophone South
+Fundy Shores	Anglophone South
+Gagetown School	Anglophone West
+Garden Creek Elementary	Anglophone West
+Geary Elementary	Anglophone West
+George Street Middle	Anglophone West
+Gesner Street Elementary	Anglophone West
+Glen Falls Elementary	Anglophone South
+Grand Bay Primary	Anglophone South
+Grand Manan Community	Anglophone South
+Grande-Digue	Francophone Sud
+Grande-Riviere	Francophone Nord-Ouest
+Gretna Green Elementary	Anglophone North
+Hammond River Valley	Anglophone South
+Hampton Elementary	Anglophone South
+Hampton High	Anglophone South
+Hampton Middle	Anglophone South
+Harbour View High	Anglophone South
+Harcourt School	Anglophone North
+Harkins Elementary	Anglophone North
+Harkins Middle	Anglophone North
+Harold Peterson Middle	Anglophone West
+Harrison Trimble	Anglophone East
+Harry Miller	Anglophone South
+Hartland Community	Anglophone West
+Hartland High	Anglophone West
+Harvey Elementary	Anglophone West
+Harvey High	Anglophone West
+Havelock	Anglophone East
+Havelock Elementary	Anglophone South
+Hazen White-St. Francis	Anglophone South
+Hillcrest	Anglophone East
+Hillsborough Elementary	Anglophone East
+Hubbard Avenue Elementary	Anglophone West
+Ian Baillie Primary	Anglophone North
+Inglewood Elementary	Anglophone South
+Island View Elementary	Anglophone South
+Jacquet River	Anglophone North
+James M. Hill Memorial	Anglophone North
+Janeville Elementary	Anglophone North
+JMA Armstrong	Anglophone East
+John Caldwell	Anglophone West
+Juniper Elementary	Anglophone West
+Kennebecasis Park	Anglophone South
+Kennebecasis Valley	Anglophone South
+Keswick Ridge	Anglophone West
+Keswick Valley	Anglophone West
+Kingsclear Consolidated	Anglophone West
+L'Odyssee	Francophone Sud
+L.E. Reinsborough	Anglophone North
+L.F.M. Memorial Academy	Anglophone North
+La Croisse de Robertville	Francophone Nord-Est
+La D'acouverte-de-Saint-Sauveur	Francophone Nord-Est
+La Passerelle	Francophone Nord-Est
+La Relève	Francophone Nord-Est
+La Ruche	Francophone Nord-Est
+La Source	Francophone Nord-Est
+La Villa des Amis	Francophone Nord-Est
+La-Riviere	Francophone Nord-Est
+Lakefield Elementary	Anglophone South
+Lakewood Heights Elementary	Anglophone South
+Lawrence Station	Anglophone South
+Le Coin-des-Amis	Francophone Nord-Est
+Le Domaine-des-Copains	Francophone Nord-Est
+Le Domaine-Étudiant	Francophone Nord-Est
+Le Maillon	Francophone Nord-Est
+Le Mascaret	Francophone Sud
+Le Rendez-vous-des-Jeunes	Francophone Nord-Est
+Le Tournesol	Francophone Nord-Est
+Le Tremplin	Francophone Nord-Est
+Leo Hayes High	Anglophone West
+Lewisville Middle	Anglophone East
+Liverpool Street	Anglophone West
+Loch Lomond Elementary	Anglophone South
+Lord Beaverbrook	Anglophone North
+Lou MacNarin	Anglophone East
+Louis-J.-Robichaud	Francophone Sud
+Louis-Mailloux	Francophone Nord-Est
+Lower Lincoln Elementary	Anglophone West
+Léandre-LeGresley	Francophone Nord-Est
+l’Amitié	Francophone Nord-Est
+L’Envolée	Francophone Nord-Est
+l’Escale-des-Jeunes	Francophone Nord-Est
+l’Étincelle	Francophone Nord-Est
+M. Gerald Teed Memorial	Anglophone South
+Macdonald Consolidated	Anglophone South
+Magnetic Hill	Anglophone East
+Marguerite-Bourgeoys	Francophone Nord-Est
+Marie-Esther	Francophone Nord-Est
+Marie-Gaétane	Francophone Nord-Ouest
+Marie-Immaculée	Francophone Nord-Ouest
+Marshview Middle	Anglophone East
+Marée Montante	Francophone Sud
+Mathieu-Martin	Francophone Sud
+McAdam Avenue Elementary	Anglophone West
+McAdam Elementary	Anglophone West
+McAdam High	Anglophone West
+Mgr Marcel-François-Richard	Francophone Sud
+Mgr-François-Bourgeois	Francophone Sud
+Mgr-Lang	Francophone Nord-Ouest
+Mgr-Martin	Francophone Nord-Ouest
+Mgr-Matthieu-Mazerolle	Francophone Nord-Ouest
+Mgr-Melanson	Francophone Nord-Est
+Millerton School	Anglophone North
+Millidgeville North	Anglophone South
+Milltown Elementary	Anglophone South
+Millville Elementary	Anglophone West
+Minto Elementary & Middle	Anglophone West
+Minto Memorial	Anglophone West
+Miramichi Rural	Anglophone North
+Miramichi Valley	Anglophone North
+Moncton High	Anglophone East
+Mont-Carmel	Francophone Sud
+Montgomery Street Elementary	Anglophone West
+Morna Heights Elementary	Anglophone South
+Mountain View	Anglophone East
+Nackawic Elementary	Anglophone West
+Nackawic High	Anglophone West
+Nackawic Middle	Anglophone West
+Napan Elementary	Anglophone North
+Nashwaak Valley	Anglophone West
+Nashwaaksis Memorial	Anglophone West
+Nashwaaksis Middle	Anglophone West
+Nelson Rural	Anglophone North
+New Denmark	Anglophone West
+New Maryland Elementary	Anglophone West
+North & South Esk Elementary	Anglophone North
+North & South Esk Regional	Anglophone North
+Northrop Frye	Anglophone East
+Norton Elementary	Anglophone South
+Notre-Dame	Francophone Nord-Est
+Notre-Dame	Francophone Nord-Ouest
+Notre-Dame	Francophone Sud
+Ola-Léger	Francophone Nord-Est
+Oromocto High	Anglophone West
+Park Street Elementary	Anglophone West
+Parkwood Elementary	Anglophone North
+Pennfield Elementary	Anglophone South
+Perth-Andover Middle	Anglophone West
+Petitcodiac Regional	Anglophone East
+Place-des-Jeunes	Francophone Nord-Est
+Port Elgin Regional	Anglophone East
+Priestman Street Elementary	Anglophone West
+Prince Charles Elementary	Anglophone South
+Princess Elizabeth	Anglophone South
+Père-Edgar-T.-LeBlanc	Francophone Sud
+Queen Elizabeth	Anglophone East
+Quispamsis Elementary	Anglophone South
+Quispamsis Middle	Anglophone South
+René-Chouinard	Francophone Nord-Est
+Rexton Elementary	Anglophone North
+Ridgeview Middle	Anglophone West
+River Valley	Anglophone South
+Riverside Consolidated	Anglophone East
+Riverview East	Anglophone East
+Riverview High	Anglophone East
+Riverview Middle	Anglophone East
+Roland-Pépin	Francophone Nord-Est
+Rothesay Elementary	Anglophone South
+Rothesay High	Anglophone South
+Rothesay Park	Anglophone South
+Royal Road Elementary	Anglophone West
+Régionale de Baie Sainte-Anne	Francophone Sud
+Sacré-Coeur	Francophone Nord-Ouest
+Saint John High	Anglophone South
+Saint Mary's Academy	Anglophone West
+Saint-André	Francophone Nord-Ouest
+Saint-Basile	Francophone Nord-Ouest
+Saint-Henri	Francophone Sud
+Saint-Jacques	Francophone Nord-Ouest
+Saint-Joseph	Francophone Nord-Ouest
+Saint-Paul	Francophone Sud
+Sainte-Anne	Francophone Nord-Ouest
+Sainte-Anne	Francophone Sud
+Sainte-Bernadette	Francophone Sud
+Sainte-Therèse	Francophone Sud
+Salem Elementary	Anglophone East
+Salisbury Elementary	Anglophone East
+Salisbury Middle	Anglophone East
+Samuel-de-Champlain	Francophone Sud
+Seawood Elementary	Anglophone South
+Secondaire Assomption	Francophone Sud
+Secondaire Népisiguit	Francophone Nord-Est
+Shediac Cape	Anglophone East
+Simonds High	Anglophone South
+Simonds Middle	Anglophone South
+Sir James Dunn	Anglophone South
+Soleil Levant	Francophone Sud
+South Bathurst Elementary	Anglophone North
+South Devon Elementary	Anglophone West
+Southern Carleton Elementary	Anglophone West
+Southern Victoria High	Anglophone West
+St. Andrews Elementary	Anglophone North
+St. George Elementary	Anglophone South
+St. John the Baptist/King Edward	Anglophone South
+St. Malachy's Memorial	Anglophone South
+St. Martins Elementary	Anglophone South
+St. Patrick's Elementary	Anglophone South
+St. Rose Elementary	Anglophone South
+St. Stephen Elementary	Anglophone South
+St. Stephen High	Anglophone South
+St. Stephen Middle	Anglophone South
+Stanley Elementary	Anglophone West
+Stanley High	Anglophone West
+Sugarloaf High	Anglophone North
+Summerhill Street Elementary	Anglophone West
+Sunbury West	Anglophone West
+Sunny Brae	Anglophone East
+Superior Middle	Anglophone North
+Sussex Corner Elementary	Anglophone South
+Sussex Elementary	Anglophone South
+Sussex Middle	Anglophone South
+Sussex Regional	Anglophone South
+Séjour-Jeunesse	Francophone Nord-Est
+Sœur-Saint-Alexandre	Francophone Nord-Est
+Tabusintac Rural	Anglophone North
+Tantramar Regional	Anglophone East
+Terre-des-Jeunes	Francophone Nord-Est
+Terry Fox Elementary	Anglophone North
+Thomas-Albert	Francophone Nord-Ouest
+Tide Head	Anglophone North
+Tobique Valley High	Anglophone West
+Touchstone Academy	Anglophone South
+Upper Miramichi Elementary	Anglophone West
+Versant-Nord	Francophone Nord-Est
+Vincent Massey Elementary	Anglophone South
+W.-Arthur-Losier	Francophone Nord-Est
+W.-F. Boisvert	Francophone Sud
+West Riverview	Anglophone East
+Westfield Elementary	Anglophone South
+Woodlawn Learning Centre	Anglophone South
+Woodstock Centennial	Anglophone West
+Woodstock Christian Academy	Anglophone West
+Woodstock High	Anglophone West
+Woodstock Middle	Anglophone West
