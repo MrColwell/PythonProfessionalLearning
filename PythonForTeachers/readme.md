@@ -1,6 +1,8 @@
 # This folder is for the July 5-7, 2017 Professional Learning Days
 
-There is one main document and a lot of other code snippets. The leading number on the code corresponds with the activity. 
+https://docs.google.com/document/d/11rcw2ycuR2z4AUX4g94lBayxXI6DfUUaIw57Ye21OFU/edit?usp=sharing
+
+The code snippets are associated with the Google Doc link above. The leading number on the code corresponds with the activity. 
 
 The assumption is that teachers will attend having no background on Python3.4+ It is recommended that you partner with someone who does have some programming background.
 
